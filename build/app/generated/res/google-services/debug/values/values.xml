@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">788345373060-bdcca4c71gcne2vrv6lf1pcacv44uh6v.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://chatflutter-28037.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">788345373060</string>
+    <string name="google_api_key" translatable="false">AIzaSyAQBRCawlB_uHj3DZG82ZTveUNU1WVmXN8</string>
+    <string name="google_app_id" translatable="false">1:788345373060:android:d880f4d91b4e99548dddd1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAQBRCawlB_uHj3DZG82ZTveUNU1WVmXN8</string>
+    <string name="google_storage_bucket" translatable="false">chatflutter-28037.appspot.com</string>
+    <string name="project_id" translatable="false">chatflutter-28037</string>
+</resources>
